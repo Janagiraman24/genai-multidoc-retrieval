@@ -77,6 +77,7 @@ response = agent.query(
     "Why was WEBDEVJUDGE introduced?"
     "Why are speech-text models computationally expensive?"
 )
+```
 ```python
 response = agent.query("Give me a summary of all the 3 documents")
 print(str(response))
